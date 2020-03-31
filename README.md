@@ -6,3 +6,7 @@ The distance data we use to define the weights matrix is confidential and was pr
 
 Our main contribution is that the use of spatial panel regression methods support the previous findings of Raphael Parchet.
 
+
+About the code:
+The main code is "Swiss_taxcomp.R"
+In order for the code to run you need the distance data which we used under the name "wdf.RData"
